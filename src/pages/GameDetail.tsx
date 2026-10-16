@@ -58,9 +58,15 @@ export default function GameDetail() {
             <Tag key={s}>{s}</Tag>
           ))}
           {game.source === 'added' && <Tag tone="warn">Added by research. Review before trusting.</Tag>}
+          {game.source === 'built-in' && <Tag tone="accent">Built into this app</Tag>}
         </div>
         <h1 className="font-display text-3xl font-bold tracking-tight sm:text-4xl">{game.name}</h1>
         <p className="text-lg leading-relaxed text-muted">{game.howToPlay}</p>
+        {game.playUrl && (
+          <Link to={game.playUrl} className="self-start rounded-xl bg-accent px-5 py-3 text-base font-bold text-accent-ink shadow-lg shadow-black/20">
+            Play it here
+          </Link>
+        )}
         {game.tip && (
           <p className="rounded-lg border border-accent/30 bg-accent/10 px-4 py-3 text-sm">
             <span className="font-semibold text-accent">Tip for four: </span>

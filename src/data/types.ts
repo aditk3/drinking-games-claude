@@ -30,8 +30,10 @@ export type Enrichment = {
   duration?: string
   playerSweetSpot?: string
   links?: GameLink[]
-  /** "seed" = came from the .md, "added" = found during research and needs review. */
-  source?: 'seed' | 'added'
+  /** "seed" = came from the .md, "added" = found during research and needs review, "built-in" = playable inside this app. */
+  source?: 'seed' | 'added' | 'built-in'
+  /** Route of the playable version inside this app, e.g. "/play/roulette". */
+  playUrl?: string
   /** Free-form note on anything that could not be verified. */
   notes?: string
 }

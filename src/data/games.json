@@ -3911,6 +3911,105 @@
     "notes": "Checked in a browser in Oct 2026: free, 100+ cards as a guest, extra 50 free with a login, Add players or Quick start, then flip the card and do what it says, with some cards lasting multiple turns. I stopped at the age gate rather than accept it, so I did not see the cards themselves; sip counts above are typical values. The site operator is not named on the page."
   },
   {
+    "source": "built-in",
+    "id": "drink-roulette",
+    "name": "Drink Roulette",
+    "category": "One shared device",
+    "subcategory": "Dedicated drinking game apps",
+    "needs": "One phone, this site",
+    "vibe": "Medium",
+    "style": [
+      "Luck",
+      "Social"
+    ],
+    "howToPlay": "A spin-the-wheel drinking game built into this site. Enter names, put the phone in the middle, and take turns spinning. Slices tell you to drink, give drinks, make everyone drink, do a dare, answer a truth, or make a rule. Switch to Names mode and the wheel picks a person instead.",
+    "tip": "With 4 the wheel comes round fast; two or three spins each is a full round.",
+    "playUrl": "/play/roulette",
+    "setup": [
+      "Open Play, then Drink Roulette, on one phone.",
+      "Add everyone's name in seating order.",
+      "Put the phone flat in the middle where everyone can reach it.",
+      "Tap Spin to start."
+    ],
+    "rules": [
+      "The phone shows whose spin it is. That person taps Spin.",
+      "When the wheel stops, do what the slice says. The card under the wheel explains it.",
+      "Dare and Truth slices draw a prompt from the deck. Do it or drink the penalty shown.",
+      "Make a rule lasts until someone else lands on it.",
+      "Spin again means the same person spins once more and whatever they get is doubled.",
+      "Switch to Names mode when you want the wheel to pick a person: whoever it lands on drinks 2.",
+      "Play until the drinks or the attention span run out."
+    ],
+    "drinkTriggers": [
+      "Drink 1, 2 or 3: the spinner drinks that many sips",
+      "Give 1 or 2: the spinner hands out that many",
+      "Everyone: everyone drinks 1",
+      "Left or right drinks: that neighbour drinks 2",
+      "Waterfall: the spinner starts a waterfall",
+      "Dare refused: drink 3. Truth refused: drink 2",
+      "Names mode: the person the wheel picks drinks 2"
+    ],
+    "variations": [
+      "Double or nothing: before spinning, the spinner may call double. Drinks are doubled, gives are doubled, but Safe becomes Drink 2.",
+      "Shots wheel: play Names mode with shots instead of sips. Short game."
+    ],
+    "watchOut": "Names mode can single someone out several spins in a row; swap back to Outcomes if one person is getting wrecked.",
+    "duration": "About 1 min per spin; 15 to 20 min for a session",
+    "playerSweetSpot": "4 is ideal. Everyone spins often and the neighbour slices always hit someone.",
+    "links": [],
+    "notes": "Replaces the Drink Roulette app, which has no App Store listing any more. Built into this site; no account or install."
+  },
+  {
+    "source": "built-in",
+    "id": "drinkopoly",
+    "name": "Drinkopoly",
+    "category": "One shared device",
+    "subcategory": "Dedicated drinking game apps",
+    "needs": "One phone, this site",
+    "vibe": "Medium",
+    "style": [
+      "Luck",
+      "Social"
+    ],
+    "howToPlay": "A board game drinking game built into this site. Roll the die on the phone, move your token round a 24-square loop, and do what the square says: drink, give, everyone drinks, truth, dare, rule, chance cards, skips and waterfalls. First to finish the chosen number of laps wins and everyone else finishes their drink.",
+    "tip": "Two laps with 4 players is about 20 minutes. One lap if you want it quick.",
+    "playUrl": "/play/board",
+    "setup": [
+      "Open Play, then Drinkopoly, on one phone.",
+      "Add everyone's name in seating order; each gets a token colour.",
+      "Pick how many laps win: 1 is quick, 2 is standard, 3 is a long night.",
+      "Tap Start the board. The phone goes in the middle and gets passed around."
+    ],
+    "rules": [
+      "On your turn tap Roll. Your token moves that many squares clockwise.",
+      "Passing Start hands out 1 drink to anyone. Landing exactly on Start hands out 2.",
+      "Do what the square says. A card pops up explaining it; tap Done when it is handled.",
+      "Truth and Dare squares draw a prompt. Answer or do it, or drink the penalty shown.",
+      "Chance squares draw a card. Some move you; the phone moves you automatically after you tap Done.",
+      "Skip means you miss your next turn. Roll again means you roll straight away.",
+      "Back 3 moves you back three squares and you do that square too.",
+      "The first player to complete the chosen laps wins. Everyone else finishes their drink."
+    ],
+    "drinkTriggers": [
+      "Drink squares: drink 1, 2 or 3 as marked",
+      "Give squares: hand out 1, 2 or 3",
+      "Everyone square: everyone drinks 1",
+      "Waterfall square: you start a waterfall",
+      "Truth refused: drink 2. Dare refused: drink 3",
+      "Chance cards: as written on the card",
+      "Game over: everyone except the winner finishes their drink"
+    ],
+    "variations": [
+      "Short game: one lap, and landing on Start also makes you drink 2 for lapping too fast.",
+      "Team tokens: play 2v2 with one token per team, partners alternate rolling and both drink on Drink squares."
+    ],
+    "watchOut": "Three laps with 4 people can run 40 minutes and the Drink 3 square is on every lap. Keep an eye on whoever keeps hitting it.",
+    "duration": "About 10 min per lap with 4 players",
+    "playerSweetSpot": "4 is ideal: turns come round every minute or so and nobody waits long. Works from 2 to 8.",
+    "links": [],
+    "notes": "Replaces the Drinkopoly app, which has been delisted from the App Store. Built into this site; no account or install."
+  },
+  {
     "id": "heads-up",
     "name": "Heads Up!",
     "category": "One shared device",
@@ -6501,6 +6600,62 @@
       }
     ],
     "notes": "The page loaded with the title Play the Fishbowl Game (aka Salad Bowl) and metadata stating it is free, needs at least 4 players and runs through rounds of Taboo, Charades and Password. The game itself is a JavaScript app, so the exact room-creation clicks were not observed."
+  },
+  {
+    "source": "built-in",
+    "id": "party-room",
+    "name": "Party Room",
+    "category": "One device per person",
+    "subcategory": "Browser games with a room code",
+    "needs": "One phone each, this site",
+    "vibe": "Medium",
+    "style": [
+      "Social",
+      "Dexterity",
+      "Dares"
+    ],
+    "howToPlay": "A multi-phone party game built into this site. One person creates a room and gets a 4-letter code; everyone joins on their own phone. Every round all phones get the same thing at once: vote on who is most likely to, tap I have or Never, pick a side in would you rather, a dare or truth aimed at one person, a new table rule, or a mini-game like reaction time, tap race, hold steady or quick math. The phone works out who drinks.",
+    "tip": "Mix it up mode with 4 people is the sweet spot. Mini-games with 4 always produce a clear loser.",
+    "playUrl": "/play/room",
+    "setup": [
+      "One person opens Play, then Party Room, enters their name and taps Create room.",
+      "They read out the 4-letter code or share the link.",
+      "Everyone else opens the same site on their phone, enters their name and the code, and joins.",
+      "The host picks a mode (Mix it up, Prompts, or Mini-games) and Spicy or Tame, then taps Start."
+    ],
+    "rules": [
+      "Each round every phone shows the same prompt at the same time.",
+      "Most likely to: tap the person you mean. Whoever gets the most votes drinks that many.",
+      "Never have I ever: tap I have or Never. Everyone who has drinks 1.",
+      "Would you rather: pick a side. The minority drinks 1; a tie means everyone drinks.",
+      "Dare or Truth: one phone gets it. That person does it and hands out 2, or drinks 3 instead.",
+      "New rule: one player becomes rule master and the rule stands until the next rule round.",
+      "Reaction: tap the box when it turns green. Slowest drinks 2; tapping early counts as last.",
+      "Tap race: tap as many times as you can in 5 seconds. Fewest drinks 2.",
+      "Hold steady: hold the button and release at the target time with no clock. Furthest off drinks 2.",
+      "Quick math: type the answer. Wrong answers drink 1; first correct hands out 2.",
+      "Rounds reveal themselves when everyone has answered. The host can also reveal early, skip to the next round, or end the game.",
+      "The sidebar keeps a drink tally; at the end the phone shows the final standings."
+    ],
+    "drinkTriggers": [
+      "Most votes: drink one per vote received",
+      "Never have I ever: everyone who has, drinks 1",
+      "Would you rather minority: drink 1; tie: everyone drinks 1",
+      "Dare or truth refused: drink 3; done: hand out 2",
+      "Mini-game last place: drink 2",
+      "Quick math wrong answer: drink 1",
+      "Breaking the table rule: drink 1"
+    ],
+    "variations": [
+      "Tame mode: the host turns Spicy off in the lobby and the sex, ex and drunk-story prompts are left out.",
+      "Mini-games only: a quick-fire mode where every round has a clear loser. Good when the table is too drunk for questions.",
+      "One screen: cast the host's phone to a TV so everyone can see the results, then everyone answers on their own phone."
+    ],
+    "watchOut": "Everyone must be on the same site address, so on a home network the host runs it from a computer and shares that computer's address, not localhost. Dares are aimed at one person; keep the refuse option in mind.",
+    "duration": "About 1 min per round; 20 to 40 min for a game",
+    "playerSweetSpot": "4 is ideal. Votes still produce a loser, mini-games rank cleanly, and dares come round to everyone. Supports up to 12.",
+    "links": [],
+    "notes": "Replaces Trinks and Multiplayer Games for Drinking, which no longer exist. Needs the room server, which runs locally in development and on a free Cloudflare Workers account when deployed."
   },
   {
     "id": "fall-guys-rocket-league-mario-kart-online-fortnite-warzone",

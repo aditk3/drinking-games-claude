@@ -9,9 +9,32 @@ npm install
 npm run dev
 ```
 
-Then open the URL Vite prints (normally http://localhost:5173).
+Then open the URL Vite prints (normally http://localhost:5173). The dev server also runs the room server for the multi-phone games, so everything works locally with no account.
 
-`npm run build` writes a static bundle to `dist/`; `npm run preview` serves it.
+To let phones on your wifi join a room while you develop, run `npm run dev -- --host` and share the network address Vite prints instead of localhost.
+
+`npm run build` writes the site to `dist/client/` and the Worker to `dist/drinking_games/`; `npm run preview` serves the built output through the Workers runtime.
+
+## Built-in games
+
+The `/play` section has games built into the site, replacing apps that no longer exist:
+
+- **Drink Roulette** (`/play/roulette`): one phone, a spinnable wheel.
+- **Drinkopoly** (`/play/board`): one phone, a 24-square board game.
+- **Party Room** (`/play/room`): everyone on their own phone, joined by a 4-letter code. Prompts (most likely to, never have I ever, would you rather, dares, truths, rules) and mini-games (reaction, tap race, hold steady, quick math). The host picks Spicy or Tame.
+
+Content lives in `shared/content.ts`. Game logic for the room is in `shared/game.ts` and runs on the server; the client only renders state.
+
+## Deploying
+
+The site and the room server deploy together as one Cloudflare Worker (free plan is enough; rooms use Durable Objects with SQLite storage, which the free plan includes).
+
+```bash
+npx wrangler login
+npm run deploy
+```
+
+The first command opens a browser to authorize wrangler against your Cloudflare account. The second builds and deploys; wrangler prints the public `*.workers.dev` URL. Re-run `npm run deploy` after any change.
 
 ## Where the data lives
 

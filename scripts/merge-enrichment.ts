@@ -45,7 +45,7 @@ for (const file of files) {
       for (const k of REQUIRED_NEW) {
         if (!(k in entry)) throw new Error(`${file}: new game "${entry.id}" is missing "${k}"`)
       }
-      const game = { ...entry, source: 'added' } as unknown as Game
+      const game = { source: 'added', ...entry } as unknown as Game
       if (!game.tip) game.tip = ''
       let insertAt = -1
       for (let i = games.length - 1; i >= 0; i--) {

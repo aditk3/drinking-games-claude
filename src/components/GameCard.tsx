@@ -20,6 +20,7 @@ export default function GameCard({ game }: { game: Game }) {
         ))}
         {game.duration && <Tag>{game.duration.replace(/\s*per.*$/i, '')}</Tag>}
         {game.source === 'added' && <Tag tone="warn">Added, review</Tag>}
+        {game.playUrl && <Tag tone="accent">Play here</Tag>}
         {!hasRules && <Tag>Short rules only</Tag>}
       </div>
       <p className="truncate text-xs text-muted/80">
