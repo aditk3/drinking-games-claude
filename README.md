@@ -27,6 +27,8 @@ Content lives in `shared/content.ts`. Game logic for the room is in `shared/game
 
 ## Deploying
 
+Live at https://drinking-games.drinking-games.workers.dev (library and all three built-in games).
+
 The site and the room server deploy together as one Cloudflare Worker (free plan is enough; rooms use Durable Objects with SQLite storage, which the free plan includes).
 
 ```bash
