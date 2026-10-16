@@ -1049,6 +1049,74 @@
     "notes": "The gamerules.com version says 6 or more players with two decks; the Daily Meal version uses one deck and 3 cards each. The single-deck 4-card version here is a blend that fits 4 players and matches the common description."
   },
   {
+    "source": "added",
+    "id": "irish-poker",
+    "name": "Irish Poker",
+    "category": "No devices",
+    "subcategory": "Standard deck of cards",
+    "needs": "Deck of cards",
+    "vibe": "Heavy",
+    "style": [
+      "Luck",
+      "Betting"
+    ],
+    "howToPlay": "Everyone gets four face-down cards and answers four questions about them in turn: red or black, higher or lower, in between or outside, and which suit. Right means you hand out drinks, wrong means you take them, and the stakes double every round from 2 up to 8. Most groups finish with a give row and a take row in the middle where matching cards hand out or cost escalating drinks.",
+    "tip": "With 4 players the stakes rounds fly by, so always play the give and take rows afterwards. That is where the 8-drink swings happen.",
+    "setup": [
+      "Shuffle a full deck and pick a dealer.",
+      "Deal 4 cards face down to each player. Nobody looks at them.",
+      "Deal 8 more cards face down in the middle in two rows of 4: the row nearest the dealer is Give, the other is Take. Leave the rest as the draw pile.",
+      "Agree the stakes before you start. Standard is 2, 4, 6, 8 drinks for the four rounds.",
+      "Agree whether a tie (same rank) counts as wrong. Most tables say it does."
+    ],
+    "rules": [
+      "Round 1, starting left of the dealer: guess red or black, then flip your first card. Right: hand out 2. Wrong: drink 2.",
+      "Round 2: guess whether your second card is higher or lower than your first. Right: hand out 4. Wrong: drink 4. Same rank counts as wrong.",
+      "Round 3: guess whether your third card is in between your first two or outside them. Right: hand out 6. Wrong: drink 6. Matching either card counts as wrong.",
+      "Round 4: guess the suit of your fourth card. Right: hand out 8, split however you like. Wrong: drink 8.",
+      "Everyone now has 4 face-up cards. Flip the middle rows one card at a time, alternating Give, Take, Give, Take, left to right.",
+      "When a Give card is flipped, anyone holding a card of the same rank may play it on top and hand out drinks equal to that card's position (1st card 1, 2nd 2, 3rd 3, 4th 4).",
+      "When a Take card is flipped, anyone holding a matching rank must play it and drink that many. Several players can match the same card.",
+      "The 4th Take card is the killer: match it and you finish your drink.",
+      "After all 8 middle cards, the game is over. Shuffle and deal again if people are still upright."
+    ],
+    "drinkTriggers": [
+      "Wrong colour guess: drink 2. Right: give 2",
+      "Wrong higher or lower: drink 4. Right: give 4",
+      "Wrong in between or outside: drink 6. Right: give 6",
+      "Wrong suit: drink 8. Right: give 8",
+      "Match a Give row card: hand out 1 to 4 depending on its position",
+      "Match a Take row card: drink 1 to 4 depending on its position",
+      "Match the last Take card: finish your drink"
+    ],
+    "variations": [
+      "Red takes, black gives: in some Irish and American groups the colour decides. Red card means you drink the round's stake, black means you hand it out, no guessing. Lighter on skill, heavier on luck.",
+      "Face card doubler: any face card flipped in the middle rows doubles its position value, so a Queen as the 4th Give card hands out 8.",
+      "Capped stakes: keep every round at 2 drinks for a long session. The give and take rows still escalate so the ending stays dangerous."
+    ],
+    "watchOut": "The suit round is a 1 in 4 shot for 8 drinks, so three of four players usually drink 8 there. Set sip size before you start or the take row will end someone's night.",
+    "duration": "10 to 15 min per deal",
+    "playerSweetSpot": "4 is ideal. One deck covers the hands plus the middle rows with plenty left, and every Give card has three targets.",
+    "links": [
+      {
+        "label": "Irish Poker rules at PokerListings",
+        "url": "https://www.pokerlistings.com/poker-rules/irish-poker",
+        "verified": "fetched"
+      },
+      {
+        "label": "Irish Poker drinking game at Casino.org",
+        "url": "https://www.casino.org/blog/irish-poker-drinking-game/",
+        "verified": "fetched"
+      },
+      {
+        "label": "Irish Poker at Bar Games 101",
+        "url": "https://bargames101.com/irish-poker-rules/",
+        "verified": "fetched"
+      }
+    ],
+    "notes": "Picked up from the external research set, which lists it separately from Ride the Bus; the stakes (2, 4, 6, 8) follow PokerListings and Casino.org. Bar Games 101 and others give different numbers for rounds 3 and 4, so agree stakes before dealing."
+  },
+  {
     "id": "three-man",
     "name": "Three Man",
     "category": "No devices",
@@ -2116,6 +2184,69 @@
       }
     ],
     "notes": "Sources disagree on who drinks when a can is hit (hit team or throwing team); the main rules use the hit team version, which is what bargames101 describes."
+  },
+  {
+    "source": "added",
+    "id": "drunk-cornhole",
+    "name": "Drunk Cornhole",
+    "category": "No devices",
+    "subcategory": "Cups and table games",
+    "needs": "Cornhole set (2 boards, 8 bags), a yard or long room",
+    "vibe": "Medium",
+    "style": [
+      "Dexterity"
+    ],
+    "howToPlay": "Standard 2v2 cornhole with drinks on the score. A bag on the board is 1 point, in the hole is 3, and only the difference counts each round. Every point scored against you is a sip, an airmail into the hole makes the other team drink, and losing a shutout means finishing your drink.",
+    "tip": "Perfect 2v2 at 4 people. Play to 21 and swap partners after each game so the same pair does not get wrecked twice.",
+    "setup": [
+      "Set the boards 27 feet apart (front edge to front edge), or 15 if you are short on space or already drunk.",
+      "Split into 2 teams of 2. Partners stand at opposite boards, so each board has one player from each team.",
+      "Each team takes 4 bags of one colour.",
+      "Everyone keeps a drink by their board.",
+      "Flip a bag to decide who throws first."
+    ],
+    "rules": [
+      "Players at the same board alternate throws until all 8 bags are thrown. That is one round.",
+      "A bag that lands and stays on the board is 1 point. A bag that goes in the hole is 3. A bag that touches the ground first is dead, pull it off.",
+      "Cancellation scoring: subtract the lower team's score from the higher, and only the difference counts. 7 vs 4 is 3 points to the leader.",
+      "The team that scored throws first in the next round from the other board, so the players at that end now throw.",
+      "First team to reach exactly 21 or more at the end of a round wins. Some groups play that going over 21 drops you back to 15; agree before you start.",
+      "Losers drink and swap partners for the next game."
+    ],
+    "drinkTriggers": [
+      "Points scored against your team in a round: both of you drink 1 per point",
+      "Opponent airmails a bag straight into the hole without touching the board: your team drinks 2",
+      "You miss the board completely: drink 1 before your next throw",
+      "You knock your own bag off the board: drink 1",
+      "Lose 21 to 0 or worse: both losers finish their drinks",
+      "Go over 21 if playing bust-back-to-15: drink 2"
+    ],
+    "variations": [
+      "Dizzy bat cornhole: before each throw in the last round, spin 5 times with your forehead on a bat or bottle. Misses get very common.",
+      "Shots board: put a shot glass on each board's back corner. Knock it off and your team drinks 3; sink a bag and hand out a shot.",
+      "Blocker rule: a bag resting in front of the hole stays. Knocking an opponent's blocker into the hole gives them the 3 points and you a drink."
+    ],
+    "watchOut": "Needs about 30 feet of space and daylight. Sips per point add up fast in a 21-point game, so count a point as a sip not a gulp, and skip the shutout rule for anyone who has not played before.",
+    "duration": "15 to 25 min per game to 21",
+    "playerSweetSpot": "4 is exactly right: cornhole is a 2v2 game and that is the whole player count. Swap partners between games.",
+    "links": [
+      {
+        "label": "Official cornhole rules (American Cornhole Organization)",
+        "url": "https://americancornhole.com/rules/",
+        "verified": "fetched"
+      },
+      {
+        "label": "Cornhole drinking game rules at Slick Woody's",
+        "url": "https://www.slickwoodys.com/blogs/cornhole-boards/best-cornhole-drinking-game-rules-and-party-ideas",
+        "verified": "fetched"
+      },
+      {
+        "label": "Cornhole on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cornhole",
+        "verified": "fetched"
+      }
+    ],
+    "notes": "Picked up from the external research set, which lists cornhole as a four-player team game. Scoring follows the ACO rules; the drinking layer is the common house version from Slick Woody's and similar guides, not an official ruleset."
   },
   {
     "id": "never-have-i-ever",
@@ -3299,7 +3430,12 @@
         "verified": "fetched"
       },
       {
-        "label": "Marmelapp (developer site)",
+        "label": "Official site (picoloapp.com)",
+        "url": "https://www.picoloapp.com/",
+        "verified": "fetched"
+      },
+      {
+        "label": "Marmelapp, the developer",
         "url": "https://www.marmelapp.com/",
         "verified": "fetched"
       }
@@ -4008,6 +4144,60 @@
     "playerSweetSpot": "4 is ideal: turns come round every minute or so and nobody waits long. Works from 2 to 8.",
     "links": [],
     "notes": "Replaces the Drinkopoly app, which has been delisted from the App Store. Built into this site; no account or install."
+  },
+  {
+    "source": "added",
+    "id": "pass-the-phone",
+    "name": "Pass the Phone",
+    "category": "One shared device",
+    "subcategory": "Dedicated drinking game apps",
+    "needs": "One phone",
+    "vibe": "Medium",
+    "style": [
+      "Social"
+    ],
+    "howToPlay": "One phone goes round the group. Whoever holds it reads a prompt out loud (pass the phone to the worst liar, to the one most likely to text an ex tonight), picks the person it fits, and hands them the phone. They read the next one. The app keeps score of who got passed to and shows a reveal at the end of the round. Whoever receives the phone drinks.",
+    "tip": "Unlock Adult mode for a group of 4 who know each other; the free modes are tame. The end-of-round reveal is the best part, so do not skip it.",
+    "setup": [
+      "Install Pass the Phone - Party Game from the App Store (free, Adult and Mixed modes are a paid unlock).",
+      "Add 3 to 8 player names.",
+      "Pick a mode: Party Starter or Friends and Family are free, Adult and Mixed are premium.",
+      "Hand the phone to whoever is holding the strongest opinion."
+    ],
+    "rules": [
+      "Read the prompt on screen out loud.",
+      "Pick the player it fits best and pass them the phone. No passing to yourself.",
+      "The person who receives the phone drinks 1, then reads the next prompt and passes again.",
+      "Keep going until the app ends the round and shows the reveal of who picked whom.",
+      "At the reveal, the person passed to most often drinks 3. Anyone who was never picked gives 2 for being invisible.",
+      "Start a new round, swapping modes if the group is ready for Adult."
+    ],
+    "drinkTriggers": [
+      "Receive the phone: drink 1",
+      "Reveal: most passed-to player drinks 3",
+      "Reveal: never picked, hand out 2",
+      "Argue with a pass: drink 2, the pass stands"
+    ],
+    "variations": [
+      "Explain yourself: whoever passes must give a one-sentence reason. A reason that gets a groan from the table is a drink for the passer.",
+      "Call-out mode: the person who receives the phone can challenge the pick; the group votes with thumbs, and the loser of the vote drinks 2."
+    ],
+    "watchOut": "Four people run through prompts fast and the same person can get picked over and over, which is funny for two rounds and personal by the fourth. Mix in the free modes between Adult rounds.",
+    "duration": "About 5 min per round",
+    "playerSweetSpot": "4 is right in the app's 3 to 8 range and keeps the passing quick. With 4, picks are hard to hide behind, so the reveal has teeth.",
+    "links": [
+      {
+        "label": "Pass the Phone official site",
+        "url": "https://passthephone.app/en/pass-the-phone-game/",
+        "verified": "fetched"
+      },
+      {
+        "label": "Pass the Phone on the App Store",
+        "url": "https://apps.apple.com/us/app/pass-the-phone-party-game/id6759298786",
+        "verified": "fetched"
+      }
+    ],
+    "notes": "Picked up from the external research set. The official site links to the App Store listing above (developer Metehan Kurucu), updated Oct 2026, free with premium modes. The drinking layer is a house rule; the app itself does not count drinks."
   },
   {
     "id": "heads-up",
@@ -5387,6 +5577,68 @@
       }
     ],
     "notes": "No reputable published drinking rule set exists for this game; the rules above are sane house rules built on the game's own scoring."
+  },
+  {
+    "source": "added",
+    "id": "sports-watch-party",
+    "name": "Sports watch party drinking game",
+    "category": "One shared device",
+    "subcategory": "Video, music, and console",
+    "needs": "A TV, a live game",
+    "vibe": "Medium",
+    "style": [
+      "Social",
+      "Luck"
+    ],
+    "howToPlay": "Put a game on and drink on what happens: scores, commercial cliches, replays, the commentator saying the one thing they always say. Pick a rule sheet for the sport before kickoff, give everyone a team to back, and let the broadcast run the game.",
+    "tip": "With 4, have 2 back each team. Scores then split the room: one pair gives, one pair drinks, every time.",
+    "setup": [
+      "Pick the game and get it on the TV before it starts.",
+      "Split 2 and 2 and give each pair a team. Draw cards if nobody cares.",
+      "Read the rule sheet for the sport out loud once (football, basketball or soccer below) and add 2 house rules of your own.",
+      "Nominate a rules referee who settles arguments. The ref drinks 1 for every argument they have to settle.",
+      "Everyone writes down a prediction for the final score. Closest at the end hands out 5."
+    ],
+    "rules": [
+      "Football: everyone drinks 1 on any touchdown. The pair backing the scoring team hands out 2, the other pair drinks 2. Field goal: the other pair drinks 1. Turnover: the pair backing the team that lost the ball finishes half their drink.",
+      "Basketball: drink 1 on every 3-pointer against your team, 2 on a dunk against your team. A missed free throw: the pair backing the shooter drinks 1. Any technical foul: everyone drinks.",
+      "Soccer: everyone drinks 2 on any goal and the scoring pair hands out 3. A yellow card: the pair backing the carded team drinks 1. A red card: that pair finishes their drinks. VAR check: everyone drinks until the decision is announced.",
+      "Any sport: drink 1 every time the commentator says the agreed cliche (physical, momentum, wants it more, clutch). Pick 3 before the game.",
+      "Commercials: the first ad of every break, everyone drinks 1. An ad for beer: drink 2. An ad with a celebrity: the last person to name them drinks.",
+      "Replays of a hit, a dunk or a goal: drink for every extra replay angle after the first.",
+      "Halftime: whoever is backing the losing team does a dare from the group, or finishes their drink.",
+      "Final whistle: the pair backing the losers finishes their drinks. The closest score prediction hands out 5."
+    ],
+    "drinkTriggers": [
+      "Any score: everyone drinks 1; backing pair gives 2, the other pair drinks 2",
+      "Turnover, red card or technical: the pair it hurts drinks hard",
+      "Commentator cliche from the agreed list: drink 1",
+      "First ad of every break: everyone drinks 1; beer ad drinks 2",
+      "Extra replay angles: drink 1 each",
+      "Halftime behind: dare or finish your drink",
+      "Final whistle: losing pair finishes their drinks, best prediction gives 5"
+    ],
+    "variations": [
+      "Player squares: each person draws a jersey number from a hat per quarter. Any time that number touches the ball or is mentioned, you drink. Trade numbers at halftime.",
+      "Sweepstake: everyone puts 5 in the pot and picks a score. The winner takes the pot and the rest finish their drinks.",
+      "Big game edition: for a final or a Super Bowl add the halftime show rule: drink every time there is a costume change or a surprise guest."
+    ],
+    "watchOut": "A football game is three hours plus. Score-based rules are fine, but commercial rules can mean 30 extra drinks; cut them after the first half. Keep water on the table.",
+    "duration": "The length of the game, 2 to 3.5 hours",
+    "playerSweetSpot": "4 is ideal because it makes two clean pairs backing opposite teams, so every score is a give for two and a drink for two.",
+    "links": [
+      {
+        "label": "Super Bowl drinking game at Tasting Table",
+        "url": "https://tastingtable.com/1506101/super-bowl-drinking-game-easy",
+        "verified": "fetched"
+      },
+      {
+        "label": "Ultimate Super Bowl drinking game at 4for4",
+        "url": "https://www.4for4.com/betting/super-bowl/super-bowl-drinking-game",
+        "verified": "fetched"
+      }
+    ],
+    "notes": "Picked up from the external research set, which lists a sports watch party as a four-person format. The rule sheets combine the most common triggers from published Super Bowl and football guides; basketball and soccer sheets are the same idea applied to those sports and are house rules."
   },
   {
     "id": "jackbox-party-packs",
