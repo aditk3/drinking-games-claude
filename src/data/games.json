@@ -713,11 +713,6 @@
         "label": "Give and Take rules on GameRules.com",
         "url": "https://gamerules.com/rules/give-and-take/",
         "verified": "fetched"
-      },
-      {
-        "label": "Beerwulf: drinking card games (Give and Take section)",
-        "url": "https://www.beerwulf.com/en-gb/articles-about-craft-beer/drinking-card-games",
-        "verified": "unverified"
       }
     ],
     "notes": "Sources agree on two rows and 4 cards per player but not on row length or the scale. GameRules.com uses two rows of 6 with the Take side as Truth and the Give side as Dare, scaling 2, 4, 6, 8, 10 seconds then a full beer. A Beerwulf article (page could not be fetched, seen only in search summaries) uses two rows of 12 with truth and dare rows and 1 to 12 seconds. The main version here matches the seed (6 per row, position number = drinks) and the truth/dare layout is given as a variation."
@@ -994,11 +989,6 @@
         "label": "Texas hold 'em on Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Texas_hold_%27em",
         "verified": "fetched"
-      },
-      {
-        "label": "Single Shot Texas Holdem (shot glass version)",
-        "url": "https://avoision.com/2006/01/12/single_shot_texas_holdem.php",
-        "verified": "unverified"
       }
     ],
     "notes": "There is no standard rulebook for drunk poker; the sip numbers, cap and fold penalty are the seed's rules fleshed out with sane defaults. The poker flow itself is standard Texas Hold'em from Wikipedia. The shot-glass variation page was found in search but not fetched."
@@ -2210,8 +2200,7 @@
     ],
     "watchOut": "With 4 people the max is 4 sips, so it stays light. The real risk is prompts that sting; keep them funny not cruel.",
     "duration": "About 1 min per prompt; play 15 to 30 prompts",
-    "playerSweetSpot": "Fine with 4. Votes are rarely unanimous so it stays fair, but pre-written prompts help because 4 people run out of ideas quicker than a crowd.",
-    "links": []
+    "playerSweetSpot": "Fine with 4. Votes are rarely unanimous so it stays fair, but pre-written prompts help because 4 people run out of ideas quicker than a crowd."
   },
   {
     "id": "21-twenty-one",
@@ -2449,8 +2438,7 @@
     ],
     "watchOut": "With 4 players each person has only 3 targets, so a match happens most rounds. Use sips not shots and cap it at 10 rounds or it gets heavy quickly.",
     "duration": "About 10 seconds per round; play 10 to 15 rounds",
-    "playerSweetSpot": "A stretch with 4 because matches are nearly guaranteed. Still works as a quick heavy burst between other games; just keep the pours small.",
-    "links": []
+    "playerSweetSpot": "A stretch with 4 because matches are nearly guaranteed. Still works as a quick heavy burst between other games; just keep the pours small."
   },
   {
     "id": "would-you-rather",
@@ -2490,8 +2478,7 @@
     ],
     "watchOut": "With 4 people a 1 versus 3 split means one person drinks alone a lot. Mix in silly dilemmas, not just gross ones, so it does not stall.",
     "duration": "About 1 min per question; play 15 to 30 questions",
-    "playerSweetSpot": "Fine with 4. Ties happen often, so the everyone-drinks rule matters, and small groups let people actually explain their choice.",
-    "links": []
+    "playerSweetSpot": "Fine with 4. Ties happen often, so the everyone-drinks rule matters, and small groups let people actually explain their choice."
   },
   {
     "id": "truth-or-drink",
@@ -2531,8 +2518,7 @@
     ],
     "watchOut": "Goes from funny to too real fast. Keep questions about the group, not exes and family. With 4 people, the asker rotation means you cannot hide.",
     "duration": "15 to 30 min per game",
-    "playerSweetSpot": "Ideal with 4. Small enough that answers get heard and nobody waits long for a turn.",
-    "links": []
+    "playerSweetSpot": "Ideal with 4. Small enough that answers get heard and nobody waits long for a turn."
   },
   {
     "id": "categories",
@@ -2573,8 +2559,7 @@
     ],
     "watchOut": "Someone picking a category only they know (obscure anime, 90s cricketers) kills the fun. Make the picker drink if they choose something the group cannot play.",
     "duration": "About 1 to 2 min per round; play 10 or more rounds",
-    "playerSweetSpot": "Fine with 4. Your turn comes back fast so categories empty out quickly, which is exactly the pressure you want.",
-    "links": []
+    "playerSweetSpot": "Fine with 4. Your turn comes back fast so categories empty out quickly, which is exactly the pressure you want."
   },
   {
     "id": "rhyme-time",
@@ -2614,8 +2599,7 @@
     ],
     "watchOut": "Rounds get very short once the easy rhymes are used. Ban starting words with fewer than 10 rhymes and mix in longer words occasionally to keep it interesting.",
     "duration": "About 1 min per round; play 10 to 20 rounds",
-    "playerSweetSpot": "Fine with 4. Turns come round quickly, which is where the pressure comes from.",
-    "links": []
+    "playerSweetSpot": "Fine with 4. Turns come round quickly, which is where the pressure comes from."
   },
   {
     "id": "word-association",
@@ -2656,8 +2640,7 @@
     ],
     "watchOut": "Needs someone to actually enforce the timer or it turns into a chat. Also drifts into inside jokes fast, so challenge connections nobody else gets.",
     "duration": "About 1 to 2 min per round; play 10 or more rounds",
-    "playerSweetSpot": "Fine with 4. Fast enough that nobody waits, and the chain is short enough to remember what has been said.",
-    "links": []
+    "playerSweetSpot": "Fine with 4. Fast enough that nobody waits, and the chain is short enough to remember what has been said."
   },
   {
     "id": "paranoia",
@@ -2697,8 +2680,7 @@
     ],
     "watchOut": "The whole game is the questions, so mean ones can sour the night. With 4 players the same names come up a lot, so keep questions specific and funny rather than brutal.",
     "duration": "About 1 min per question; play 15 to 25 questions",
-    "playerSweetSpot": "Fine with 4. There are only 3 possible answers to each question, so the paranoia is milder than in a big group, but it moves fast.",
-    "links": []
+    "playerSweetSpot": "Fine with 4. There are only 3 possible answers to each question, so the paranoia is milder than in a big group, but it moves fast."
   },
   {
     "id": "im-going-on-a-picnic",
@@ -2737,8 +2719,7 @@
     ],
     "watchOut": "Gets genuinely hard past 15 items and some people just cannot do it, so keep penalties small. Needs quiet to hear the list.",
     "duration": "About 5 min per round; play 3 to 5 rounds",
-    "playerSweetSpot": "Ideal with 4. The list grows at a manageable pace and each player hears it from the others 3 times before their turn comes back.",
-    "links": []
+    "playerSweetSpot": "Ideal with 4. The list grows at a manageable pace and each player hears it from the others 3 times before their turn comes back."
   },
   {
     "id": "one-word-story",
@@ -2779,8 +2760,7 @@
     ],
     "watchOut": "The game can stall when one person keeps steering it somewhere dumb. Stories with 4 people loop fast, so each person shapes a lot of it; agree to steer it somewhere.",
     "duration": "About 3 to 5 min per story; play 3 to 5 stories",
-    "playerSweetSpot": "Ideal with 4. Enough voices to be chaotic, few enough that you can actually follow the sentence.",
-    "links": []
+    "playerSweetSpot": "Ideal with 4. Enough voices to be chaotic, few enough that you can actually follow the sentence."
   },
   {
     "id": "drink-while-you-think",
@@ -2920,8 +2900,7 @@
     ],
     "watchOut": "The starter can hold people hostage. Agree a cap, and remember with 4 people the last person is only 3 links from the start, so it is shorter than in a big group but still a lot if the starter is cruel.",
     "duration": "About 30 seconds per waterfall; use once per round of another game",
-    "playerSweetSpot": "Fine with 4. Short chains keep it from going too far. Best used as a penalty inside another game rather than on its own.",
-    "links": []
+    "playerSweetSpot": "Fine with 4. Short chains keep it from going too far. Best used as a penalty inside another game rather than on its own."
   },
   {
     "id": "buzz",
@@ -3284,7 +3263,7 @@
     "tip": "Free base mode is plenty; paid packs add spicier categories.",
     "source": "seed",
     "setup": [
-      "Install Picolo (free on the App Store and Google Play) on one phone.",
+      "Install Picolo (free on the App Store) on one phone.",
       "Everyone grabs a drink and sits where they can all see the phone.",
       "Open the app and type in every player's name.",
       "Pick a pack. The free base pack is fine; Getting Crazy, Caliente, Bar and War are paid add-ons.",
@@ -3320,75 +3299,12 @@
         "verified": "fetched"
       },
       {
-        "label": "Picolo on Google Play",
-        "url": "https://play.google.com/store/apps/details?id=com.picolo.android",
-        "verified": "fetched"
-      },
-      {
         "label": "Marmelapp (developer site)",
         "url": "https://www.marmelapp.com/",
         "verified": "fetched"
       }
     ],
-    "notes": "As of Oct 2026 both store listings show free with in-app purchases: packs $3.99 each on iOS, a one-time Premium at $8.99 and a Premium subscription with weekly, monthly ($7.99 to $13.99) and yearly ($45.99) options; Google Play lists $3.99 to $45.99 per item. The iOS listing was last updated March 2023, the Android one May 2026. The marmelapp.com home page does not mention Picolo by name but links to the same developer accounts. Card types and the virus mechanic are from the store listing plus a 2023 hands-on review, not from a fresh play test."
-  },
-  {
-    "id": "drink-roulette",
-    "name": "Drink Roulette",
-    "category": "One shared device",
-    "subcategory": "Dedicated drinking game apps",
-    "needs": "One phone",
-    "vibe": "Medium",
-    "style": [
-      "Luck",
-      "Social"
-    ],
-    "howToPlay": "Pick from 22 modes including spin wheels, card challenges, and timed games.",
-    "tip": "Free; good variety when the group gets bored of one format.",
-    "source": "seed",
-    "setup": [
-      "Install the app on one phone (free with in-app purchases).",
-      "Open it and add every player's name so the prompts can call people out.",
-      "Choose a mode: spin wheel, Never Have I Ever, Most Likely To, Would You Rather or a card challenge mode.",
-      "Pick an intensity level if the mode offers one, from mild to hardcore.",
-      "Put the phone where everyone can reach it to spin or tap."
-    ],
-    "rules": [
-      "The player whose turn it is taps spin or draws the next card.",
-      "In wheel modes the wheel lands on a player, a number of sips or a dare. That person does what it says.",
-      "In Never Have I Ever and Most Likely To modes the app shows a statement. Everyone it applies to, or whoever gets the most votes, drinks.",
-      "In Would You Rather mode everyone picks a side; the smaller side drinks.",
-      "In challenge card modes the named player does the dare or drinks instead.",
-      "Pass the phone clockwise after each spin or card.",
-      "Switch modes whenever the group gets bored. There is no end state; play until you quit."
-    ],
-    "drinkTriggers": [
-      "Wheel lands on you: drink the number of sips shown",
-      "Never Have I Ever statement applies to you: drink 1",
-      "Most Likely To: the person with the most votes drinks 2",
-      "Would You Rather: the minority side drinks 1",
-      "Skip a dare: drink 3 (or whatever the card shows)"
-    ],
-    "variations": [
-      "Mode roulette: let the app or a die pick the mode each round so nobody argues about which game to play next.",
-      "Reaction mini games: the quick tap modes are a good tiebreaker; loser of the mini game drinks."
-    ],
-    "watchOut": "It is a grab bag, so the quality varies a lot by mode and the free version locks several of them. Wheel modes are pure luck and can pile sips on one unlucky player.",
-    "duration": "About 1 min per spin or card; 15 to 30 min per mode before switching",
-    "playerSweetSpot": "4 is fine. The wheel and vote modes work from 2 up; with 4 the votes still mean something and turns come around fast.",
-    "links": [
-      {
-        "label": "Party Roulette: Party Games on Google Play (developer Wheel: Entertainment)",
-        "url": "https://play.google.com/store/apps/details?id=com.Wheel.PartyRoulette",
-        "verified": "unverified"
-      },
-      {
-        "label": "Party Roulette on the App Store (listing no longer resolves)",
-        "url": "https://apps.apple.com/us/app/party-roulette-group-games/id1107872203",
-        "verified": "unverified"
-      }
-    ],
-    "notes": "Could not verify this app as of Oct 2026. Third-party roundups describe Drink Roulette: Drinking Games by Ultimate Party Apps with 22 modes, and say it appears on the App Store as Party Roulette. The App Store id for Party Roulette (1107872203) returns nothing in the US, UK, DE, ES or FR stores, so it looks delisted. The Google Play app Party Roulette: Party Games (com.Wheel.PartyRoulette) was fetched and is live (updated Oct 13, 2026, in-app purchases $5.99 to $19.99 per item) but is published by Wheel: Entertainment, so I cannot confirm it is the same product. Mode details and sip counts above come from roundup descriptions, not the store page."
+    "notes": "As of Oct 2026 the App Store listing is free with in-app purchases: packs $3.99 each, a one-time Premium at $8.99 and a Premium subscription with weekly, monthly ($7.99 to $13.99) and yearly ($45.99) options. The listing was last updated March 2023. The marmelapp.com home page does not mention Picolo by name but links to the same developer accounts. Card types and the virus mechanic are from the store listing plus a 2023 hands-on review, not from a fresh play test."
   },
   {
     "id": "do-or-drink",
@@ -3446,14 +3362,9 @@
         "label": "Do or Drink play online (demo deck)",
         "url": "https://doordrink.com/online-drinking-game/",
         "verified": "fetched"
-      },
-      {
-        "label": "Do or Drink on Google Play (link from official site; page not found)",
-        "url": "https://play.google.com/store/apps/details?id=egg.easter.doordrink_dod",
-        "verified": "unverified"
       }
     ],
-    "notes": "As of Oct 2026 the App Store listing (seller FIRST LEAP L.L.C-FZ) is free with in-app purchases: Premium Bundle $9.99 and single decks $4.99; it was last updated April 2020 and recent reviews complain premium relocks. The Google Play link on doordrink.com returns 404, so the Android version appears delisted; a different app called Do or Drink: Party Roulette by Social Spark Games is on Google Play but is not the official one. Sip counts above are typical card values, not from the official rules page, which only says swipe and follow the card."
+    "notes": "As of Oct 2026 the App Store listing (seller FIRST LEAP L.L.C-FZ) is free with in-app purchases: Premium Bundle $9.99 and single decks $4.99; it was last updated April 2020 and recent reviews complain premium relocks. Sip counts above are typical card values, not from the official rules page, which only says swipe and follow the card."
   },
   {
     "id": "king-of-booze",
@@ -3508,11 +3419,11 @@
         "verified": "fetched"
       }
     ],
-    "notes": "As of Oct 2026 the original is $6.99 with no in-app purchases (last updated Jan 2019); KoB 2 is free with purchases from $2.99 to $8.99 (last updated Jan 2020). Developer is Boris Mikic / Daygames. I could not find a live Google Play listing for either app; APK mirror sites mention an Android build but the Play Store package ids I tried all return 404. The store description does not mention a board or a BAC tracker, only 2 alcotests; the dice and board description comes from third-party reviews."
+    "notes": "As of Oct 2026 the original is $6.99 with no in-app purchases (last updated Jan 2019); KoB 2 is free with purchases from $2.99 to $8.99 (last updated Jan 2020). Developer is Boris Mikic / Daygames. The store description does not mention a board or a BAC tracker, only 2 alcotests; the dice and board description comes from third-party reviews."
   },
   {
-    "id": "game-of-shots-max",
-    "name": "Game of Shots MAX",
+    "id": "game-of-shots",
+    "name": "Game of Shots",
     "category": "One shared device",
     "subcategory": "Dedicated drinking game apps",
     "needs": "One phone",
@@ -3520,11 +3431,11 @@
     "style": [
       "Mixed"
     ],
-    "howToPlay": "Bundle of classic drinking games plus a dice board mode.",
+    "howToPlay": "Bundle of classic drinking games (Kings Cup, Never Have I Ever, Higher or Lower, and more) in one free app.",
     "tip": "Free; handy as an all-in-one.",
     "source": "seed",
     "setup": [
-      "Install Game of Shots on one phone (free; iOS listing found, Android appears delisted).",
+      "Install Game of Shots on one iPhone (free on the App Store).",
       "Open the app and add every player's name.",
       "Browse the game list; each entry shows the theme, player count and drunkenness level.",
       "Pick a game such as I've Never, Most Likely, Truth or Challenge, The Bottle or Express Hangover.",
@@ -3560,7 +3471,7 @@
         "verified": "fetched"
       }
     ],
-    "notes": "I could not find any store listing called Game of Shots MAX as of Oct 2026. The App Store listing is plain Game of Shots by Roberto Garcia Pardo / Wired Koala Studios, free, with version history ending at 1.03 (April 2019). The Android package (com.wiredkoalastudios.gameofshots2) is not on Google Play any more and review sites say it was removed. The MAX overhaul and board mode are only described by one roundup article, so treat them as unverified. Gameplay above is from the store listing and reviews, not from a fresh play test."
+    "notes": "The seed called this Game of Shots MAX, but no listing by that name exists as of Oct 2026. The App Store listing is plain Game of Shots by Roberto Garcia Pardo / Wired Koala Studios, free, with version history ending at 1.03 (April 2019), so expect an old app. A board mode was described by one roundup article only and could not be verified. Gameplay above is from the store listing and reviews, not from a fresh play test."
   },
   {
     "id": "toz",
@@ -3576,7 +3487,7 @@
     "tip": "Free with a subscription for the full library.",
     "source": "seed",
     "setup": [
-      "Install TOZ on one phone (free with a premium subscription; App Store and Google Play).",
+      "Install TOZ on one phone (free with a premium subscription on the App Store).",
       "Open the app and add every player's name.",
       "Pick a game: Never Have I Ever, Truth or Dare, Who's Most Likely To, Would You Rather, Imposter, Purity Test and more.",
       "Pick a vibe: chill, fun or hot.",
@@ -3611,17 +3522,12 @@
         "verified": "fetched"
       },
       {
-        "label": "TOZ - Party games on Google Play",
-        "url": "https://play.google.com/store/apps/details?id=com.blincio.toz",
-        "verified": "fetched"
-      },
-      {
         "label": "AFK Studio (developer site)",
         "url": "https://afkstudioapp.com/toz/app",
         "verified": "fetched"
       }
     ],
-    "notes": "As of Oct 2026 both listings are free with in-app purchases: iOS Premium from $4.99 to $44.99 (1 week with 3-day trial, 1 month, 1 year), Google Play $6.99 to $43.99 per item; iOS updated Oct 13, 2026 and Android Oct 12, 2026. The listing now says 14 games, not 13, and does not mention offline play, so I cannot confirm the offline claim. Specific drink counts are not in the store description."
+    "notes": "As of Oct 2026 the App Store listing is free with in-app purchases: Premium from $4.99 to $44.99 (1 week with 3-day trial, 1 month, 1 year); updated Oct 13, 2026. The listing now says 14 games, not 13, and does not mention offline play, so the offline claim is unverified. Specific drink counts are not in the store description."
   },
   {
     "id": "ipuke",
@@ -3670,7 +3576,7 @@
         "verified": "fetched"
       }
     ],
-    "notes": "As of Oct 2026 the listing (Mint Mobile, Brazil) is free with in-app purchases, iPhone only, 260+ cards, version 2.6 from July 2019 with about a 3.1 star rating and crash reports in reviews. No Android version exists. The refuse-both house rule is mine, the app itself simply gives no points."
+    "notes": "As of Oct 2026 the listing (Mint Mobile, Brazil) is free with in-app purchases, iPhone only, 260+ cards, version 2.6 from July 2019 with about a 3.1 star rating and crash reports in reviews. The refuse-both house rule is a house rule, the app itself simply gives no points."
   },
   {
     "id": "drinkie",
@@ -3686,7 +3592,7 @@
     "tip": "Free base, subscription for premium.",
     "source": "seed",
     "setup": [
-      "Install Drinkie - Drinking Game on an iPhone (free with in-app purchases; I could not find an Android version).",
+      "Install Drinkie - Drinking Game on an iPhone (free with in-app purchases).",
       "Open the app and add every player's name.",
       "Pick a mode: Tipsy is the free neutral one; Ridiculous, Sexy, Macho and Girly are paid unlocks.",
       "Optionally add your own rule cards with the Make your own Rule feature.",
@@ -3722,62 +3628,7 @@
         "verified": "fetched"
       }
     ],
-    "notes": "As of Oct 2026 the listing (Valiprod) is free with in-app purchases: Premium $4.49 to $6.99, single mode unlocks $2.99 each; version 2.0.1 from April 2019. The description says 4 modes but lists 5 (Tipsy, Ridiculous, Sexy, Macho, Girly) and 800+ cards. I could not find a Google Play listing. Gameplay is from the store description only."
-  },
-  {
-    "id": "drinkopoly",
-    "name": "Drinkopoly",
-    "category": "One shared device",
-    "subcategory": "Dedicated drinking game apps",
-    "needs": "One phone",
-    "vibe": "Medium",
-    "style": [
-      "Mixed"
-    ],
-    "howToPlay": "Card challenges with mini-games mixed in.",
-    "tip": "Free with in-app purchases.",
-    "source": "seed",
-    "setup": [
-      "Install Drinkopoly Go - Party Games from Google Play (the original iOS Drinkopoly listing is gone, see notes).",
-      "Open the app and add up to 9 players on the one phone.",
-      "Pick a board: Chill to start the night, Game for the most mini games, Hardcore to go all in.",
-      "Set any house rules the app offers.",
-      "Fill drinks and put the phone in the middle of the table."
-    ],
-    "rules": [
-      "On your turn, tap to roll the die. Your piece moves around the board.",
-      "The square you land on gives a dare, a trivia question, a drink or a mini game.",
-      "Mini games pull in other players: guess the logo or flag, slug racing, guess the cup, higher or lower, voting, charades.",
-      "Do the task or lose the mini game and you drink what the square says.",
-      "Pass the phone to the left after your square is resolved.",
-      "Play to the end of the board or stop when the group is done."
-    ],
-    "drinkTriggers": [
-      "Land on a drink square: drink the amount shown",
-      "Refuse a dare or miss a trivia question: drink 2",
-      "Lose a mini game: the loser drinks, the winner may hand out sips",
-      "Drink dice square: roll and drink the number shown"
-    ],
-    "variations": [
-      "Physical Drinkopoly: there is also an unrelated printed Drinkopoly board game with 44 squares of bar stops and gulps, played with a die and drinks.",
-      "Board ladder: play Chill, then Game, then Hardcore as the night goes on."
-    ],
-    "watchOut": "The original Drinkopoly app appears to be gone from the App Store, so iPhone groups may be out of luck. Hardcore board squares can call for a lot of drinking; agree a sip cap.",
-    "duration": "About 1 to 2 min per turn; 30 to 60 min per board",
-    "playerSweetSpot": "4 is ideal for the mini games, which need at least 3 to be fun, and the board does not drag.",
-    "links": [
-      {
-        "label": "Drinkopoly Go - Party Games on Google Play (Matusko Games)",
-        "url": "https://play.google.com/store/apps/details?id=com.matuskogames.drinkopoly",
-        "verified": "fetched"
-      },
-      {
-        "label": "Drinkopoly on the App Store (original listing, no longer resolves)",
-        "url": "https://apps.apple.com/us/app/id1234482088",
-        "verified": "unverified"
-      }
-    ],
-    "notes": "The seed entry describes the older Drinkopoly app by GreenTomatoMedia (12 modes, 6 mini games, free with in-app purchases). As of Oct 2026 that App Store id (1234482088) returns nothing in the US, UK, DE, ES or FR stores, so it looks delisted. The live app I could verify is Drinkopoly Go - Party Games on Google Play by Matusko Games (updated Jan 12, 2026, in-app purchases $1.49 to $10.49, no ads, up to 9 players, 3 boards); I cannot confirm it shares a publisher with the original. The setup and rules above describe Drinkopoly Go from its store description; sip counts are typical values, not from the listing."
+    "notes": "As of Oct 2026 the listing (Valiprod) is free with in-app purchases: Premium $4.49 to $6.99, single mode unlocks $2.99 each; version 2.0.1 from April 2019, so expect an old app. The description says 4 modes but lists 5 (Tipsy, Ridiculous, Sexy, Macho, Girly) and 800+ cards. Gameplay is from the store description only."
   },
   {
     "id": "gentle-jack-omens",
@@ -3887,7 +3738,7 @@
         "verified": "fetched"
       }
     ],
-    "notes": "truthordrink.com (Vanilla, Europe) lists Normal, Party, Spicy, Dares and Mixed modes as of Oct 2026, so the seed's four modes is now five. The site also links to App Store and Google Play apps that I did not fetch. Neither site states sip amounts, so the counts above are common house values."
+    "notes": "truthordrink.com (Vanilla, Europe) lists Normal, Party, Spicy, Dares and Mixed modes as of Oct 2026, so the seed's four modes is now five. The site also links to an App Store app that was not checked. Neither site states sip amounts, so the counts above are common house values."
   },
   {
     "id": "psycat-games-browser",
@@ -3926,7 +3777,7 @@
     ],
     "variations": [
       "Finger version: the site's non-drinking Never Have I Ever uses ten fingers; drop a finger instead of drinking.",
-      "PsyCat apps: most of these games also exist as free apps on the App Store and Google Play if you want them offline."
+      "PsyCat apps: most of these games also exist as free apps on the App Store if you want them offline."
     ],
     "watchOut": "No names or turn tracking in the browser games, so someone has to keep order. The site is ad supported and the pages are long; bookmark the game pages directly.",
     "duration": "About 30 sec per prompt; 15 to 30 min per game",
@@ -3953,7 +3804,7 @@
         "verified": "fetched"
       }
     ],
-    "notes": "All four pages were fetched in Oct 2026 and each is a playable browser version. The Kings Cup page does not list the per-card rules, so use the standard rules from the Kings Cup entry. The Never Have I Ever page links to PsyCat's own apps on Google Play and the App Store, which I did not fetch."
+    "notes": "All four pages were fetched in Oct 2026 and each is a playable browser version. The Kings Cup page does not list the per-card rules, so use the standard rules from the Kings Cup entry. The Never Have I Ever page links to PsyCat's own App Store app, which was not checked."
   },
   {
     "id": "partybus",
@@ -3971,7 +3822,7 @@
     "tip": "With 4, split into two teams of two for the tag and bluff rounds.",
     "source": "added",
     "setup": [
-      "Install Partybus on one phone (free with a premium subscription; App Store and Google Play).",
+      "Install Partybus on one phone (free with a premium subscription on the App Store).",
       "Open the app and enter every player's name, or set up two teams.",
       "Pick a game and start at the Warming Up level.",
       "Fill drinks and put the phone in the middle."
@@ -4003,14 +3854,9 @@
         "label": "Partybus · Party Games on the App Store",
         "url": "https://apps.apple.com/us/app/partybus-party-games/id1566547358",
         "verified": "fetched"
-      },
-      {
-        "label": "Partybus · Drinking Game on Google Play",
-        "url": "https://play.google.com/store/apps/details?id=com.Panja",
-        "verified": "fetched"
       }
     ],
-    "notes": "As of Oct 2026 the App Store listing (Ecapp BV, Netherlands) is free with weekly $5.99 to $9.99, monthly $14.99 and yearly $29.99 subscriptions plus one-time purchases; version 2.5 from Jan 2026. Google Play lists in-app purchases from $2.99 to $40.99, updated Aug 2, 2026. The store description does not list all the games or give sip counts, so the rules above are a reasonable reading of it, not a play test. I did not find an official website."
+    "notes": "As of Oct 2026 the App Store listing (Ecapp BV, Netherlands) is free with weekly $5.99 to $9.99, monthly $14.99 and yearly $29.99 subscriptions plus one-time purchases; version 2.5 from Jan 2026. The store description does not list all the games or give sip counts, so the rules above are a reasonable reading of it, not a play test. No official website was found."
   },
   {
     "id": "drunk-pirate-browser",
@@ -4115,14 +3961,9 @@
         "label": "Heads Up! on the App Store",
         "url": "https://apps.apple.com/us/app/heads-up/id623592465",
         "verified": "fetched"
-      },
-      {
-        "label": "Heads Up! on Google Play",
-        "url": "https://play.google.com/store/apps/details?id=com.wb.headsup",
-        "verified": "fetched"
       }
     ],
-    "notes": "App Store listing confirmed at $1.99 with in-app deck purchases ($1.99 each) and an update on Oct 2026. Google Play page confirmed as the Warner Bros listing updated Oct 14, 2026 with in-app purchases; the Play Store price could not be read from the page and is assumed to also be about $1.99 (unverified)."
+    "notes": "App Store listing confirmed at $1.99 with in-app deck purchases ($1.99 each) and an update in Oct 2026."
   },
   {
     "id": "psych",
@@ -4172,14 +4013,9 @@
         "label": "Psych! on the App Store",
         "url": "https://apps.apple.com/app/id1005765746",
         "verified": "fetched"
-      },
-      {
-        "label": "Psych! on Google Play",
-        "url": "https://play.google.com/store/apps/details?id=com.wb.goog.ellen.psych",
-        "verified": "fetched"
       }
     ],
-    "notes": "App Store listing confirmed free with in-app purchases including And The Truth Comes Out at $1.99; latest listed version is from Aug 2023. Google Play page confirmed as the Warner Bros listing with ads and in-app purchases, last updated May 2026."
+    "notes": "App Store listing confirmed free with in-app purchases including And The Truth Comes Out at $1.99; latest listed version is from Aug 2023."
   },
   {
     "id": "charades-reverse-charades",
@@ -4246,7 +4082,7 @@
       "Social"
     ],
     "howToPlay": "Pass the device; each player picks a card, the Czar picks a winner, losers drink.",
-    "tip": "Sites like allbad.cards run it free.",
+    "tip": "Pretend You're Xyzzy (pretendyoure.xyz) runs it free.",
     "source": "seed",
     "setup": [
       "Open a free online Cards Against Humanity clone on one phone or laptop. Pretend You're Xyzzy (pretendyoure.xyz) is the long-running one the official CAH site points to.",
@@ -4288,14 +4124,9 @@
         "label": "Cards Against Humanity official site",
         "url": "https://www.cardsagainsthumanity.com",
         "verified": "fetched"
-      },
-      {
-        "label": "All Bad Cards",
-        "url": "https://allbad.cards",
-        "verified": "unverified"
       }
     ],
-    "notes": "allbad.cards (named in the seed tip) did not resolve at all as of Oct 2026 and appears to be offline, so it is listed as unverified. Pretend You're Xyzzy loaded and describes itself as a Cards Against Humanity clone still in development; the official CAH site links to it while saying it cannot vouch for it. Neither clone offers a true single-device pass-and-play mode."
+    "notes": "Pretend You're Xyzzy loaded in Oct 2026 and describes itself as a Cards Against Humanity clone still in development; the official CAH site links to it while saying it cannot vouch for it. The older allbad.cards site no longer resolves. Neither clone offers a true single-device pass-and-play mode."
   },
   {
     "id": "bomb-party-jklm-fun",
@@ -4555,8 +4386,7 @@
     ],
     "watchOut": "Shout-out scoring causes arguments, so name a referee or play the silent variation. Skip ads with Premium or the pacing dies.",
     "duration": "About 10 min per video; 30 min for a 3-video set",
-    "playerSweetSpot": "4 is ideal: shouting over three other people is chaotic enough to be fun and small enough to hear who was first.",
-    "links": []
+    "playerSweetSpot": "4 is ideal: shouting over three other people is chaotic enough to be fun and small enough to hear who was first."
   },
   {
     "id": "geoguessr-free-mode",
@@ -5036,8 +4866,7 @@
     ],
     "watchOut": "If one person built most of the playlist they will win every round, so enforce equal song counts. Obscure picks that nobody knows drag it out; the 20-second reveal keeps it moving.",
     "duration": "About 30 sec per track; 20 to 30 min per playlist",
-    "playerSweetSpot": "4 is ideal: three guessers racing is enough competition and the DJ role rotates fast.",
-    "links": []
+    "playerSweetSpot": "4 is ideal: three guessers racing is enough competition and the DJ role rotates fast."
   },
   {
     "id": "mario-kart",
@@ -5646,90 +5475,6 @@
     "notes": "quizizz.com now redirects permanently to wayground.com. The blooket.com homepage is behind a Cloudflare bot check, but the play.blooket.com join page loaded and shows the Join a Game field. The exact free-plan player cap on Kahoot could not be confirmed from kahoot.com itself."
   },
   {
-    "id": "trinks",
-    "name": "Trinks",
-    "category": "One device per person",
-    "subcategory": "Phones as controllers, one screen",
-    "needs": "One phone each",
-    "vibe": "Medium",
-    "style": [
-      "Social"
-    ],
-    "howToPlay": "Multi-device drinking game app; everyone joins from their own phone and prompts go out simultaneously.",
-    "tip": "Mentioned in app roundups as the multi-device option.",
-    "source": "seed",
-    "setup": [
-      "Search the App Store or Play Store for Trinks; if it is not there, use Jackbox, AirConsole or DrunkPals instead.",
-      "If you find it, one person installs it and creates a game, which shows a room code.",
-      "Everyone else installs it, enters the code and picks a name.",
-      "Fill drinks and put all four phones face up in front of you."
-    ],
-    "rules": [
-      "Prompts, quizzes and dares go out to all phones at the same time.",
-      "Answer or vote on your own phone before the timer ends.",
-      "The app announces who drinks after each prompt.",
-      "Play until the app ends the session or the group agrees to stop."
-    ],
-    "drinkTriggers": [
-      "Whatever the prompt says, usually drink 1 to 3.",
-      "Last to answer a timed prompt: drink 1.",
-      "Bottom of the leaderboard after each block: drink 2."
-    ],
-    "watchOut": "The app appears to be gone. Its website now shows a domain-for-sale page and no store listing could be found. Treat this entry as historical and use one of the alternatives.",
-    "duration": "20 to 40 min per session (if the app can be found)",
-    "playerSweetSpot": "The developer's old blog described live multiplayer for up to 12, so 4 would have been fine.",
-    "links": [
-      {
-        "label": "trinksapp.com (now a parked domain)",
-        "url": "https://www.trinksapp.com/",
-        "verified": "unverified"
-      }
-    ],
-    "notes": "As of Oct 2026 trinksapp.com redirects to a HugeDomains for-sale page, and searches of the App Store and Google Play found no listing for Trinks. The only description found was from the developer's own old blog (live multiplayer, room code, up to 12 players, iOS and Android). Could not confirm the app still exists; it most likely does not."
-  },
-  {
-    "id": "multiplayer-games-for-drinking-app-store",
-    "name": "Multiplayer Games for Drinking (App Store)",
-    "category": "One device per person",
-    "subcategory": "Phones as controllers, one screen",
-    "needs": "One phone each",
-    "vibe": "Medium",
-    "style": [
-      "Mixed"
-    ],
-    "howToPlay": "Multi-phone drinking mini-games.",
-    "tip": "iOS.",
-    "source": "seed",
-    "setup": [
-      "Search the App Store for Multiplayer Games for Drinking by Peter Jones; the direct link returned a not-found page in Oct 2026.",
-      "If it installs, open it on one phone, add the four names and choose a mode (Drunk, Spicy or Kiss) and the number of rounds.",
-      "Set the drink type in the settings so the app's drink amounts match what you are drinking.",
-      "Put the phone in the middle of the table; despite the name, it is a pass-around single-phone app."
-    ],
-    "rules": [
-      "The app picks a player and shows a challenge.",
-      "Do the challenge, or bail and take the drink penalty.",
-      "Tap complete or bail so the app can track who did what.",
-      "Spin the built-in bottle when the app asks, and the person it lands on gets the next challenge.",
-      "After the set number of rounds the app names a winner based on completed challenges."
-    ],
-    "drinkTriggers": [
-      "Bail on a challenge: drink what the app says, usually 2 or 3.",
-      "Fewest completed challenges at the end: finish your drink."
-    ],
-    "watchOut": "The listing could not be loaded, so the app may have been pulled. Even when it was listed it was a single-device pass-around app, not one phone each, so it does not really belong in this category.",
-    "duration": "15 to 30 min",
-    "playerSweetSpot": "4 is fine if the app exists; it lets you add as many players as you like.",
-    "links": [
-      {
-        "label": "App Store listing (returned 404 in Oct 2026)",
-        "url": "https://apps.apple.com/us/app/multiplayer-games-for-drinking/id1480583929",
-        "verified": "unverified"
-      }
-    ],
-    "notes": "The App Store page for id1480583929 returned a not-found page in both the US and PY storefronts on Oct 15 2026, although search indexes and a third-party tracker still show it (free, developer Peter Jones, 17+, last update March 2026). Could not confirm it is still available. Descriptions in the indexed listing suggest a single shared phone, not per-phone multiplayer."
-  },
-  {
     "id": "drawful-2",
     "name": "Drawful 2 (standalone)",
     "category": "One device per person",
@@ -6049,8 +5794,8 @@
     ]
   },
   {
-    "id": "spyfall-spyfall-app",
-    "name": "Spyfall (spyfall.app)",
+    "id": "spyfall-spyfall-live",
+    "name": "Spyfall (spyfall.live)",
     "category": "One device per person",
     "subcategory": "Browser games with a room code",
     "needs": "One device each",
@@ -6062,7 +5807,7 @@
     "tip": "Short rounds, play many.",
     "source": "seed",
     "setup": [
-      "One person opens spyfall.app, which now sends you to spyfall.live, and clicks Start a game to create a private room.",
+      "One person opens spyfall.live and clicks Start a game to create a private room.",
       "Share the room code; the other three click Join a game and enter it on their phones.",
       "The host sets the round timer (6 to 8 minutes is good) and starts.",
       "Each phone privately shows either the secret location and a role, or just 'You are the spy'.",
@@ -6088,7 +5833,7 @@
       "Two round sets: play 6 rounds and keep score (spy win 2 points, catching the spy 1 point); lowest total finishes their drink.",
       "No-vote variant: the spy must guess before the timer ends or loses; everyone drinks 1 per minute the spy survives."
     ],
-    "watchOut": "With 4 players one spy among 3 is easy to spot if people ask obvious questions; keep questions vague. spyfall.app itself redirects, so the bookmark is spyfall.live now.",
+    "watchOut": "With 4 players one spy among 3 is easy to spot if people ask obvious questions; keep questions vague.",
     "duration": "6 to 8 min per round; play 4 to 6",
     "playerSweetSpot": "4 is a stretch but workable. The site says 3 to 8; at 4 rounds are quick and the spy has a harder time hiding, so keep the timer short.",
     "links": [
@@ -6098,7 +5843,7 @@
         "verified": "fetched"
       }
     ],
-    "notes": "spyfall.app now returns a permanent redirect to www.spyfall.live, which loaded and describes private rooms with a shareable code."
+    "notes": "The old spyfall.app address now redirects to www.spyfall.live, which loaded and describes private rooms with a shareable code."
   },
   {
     "id": "wavelength-longwave-web-app",
@@ -6204,18 +5949,13 @@
         "label": "Among Us on the App Store",
         "url": "https://apps.apple.com/us/app/among-us/id1351168404",
         "verified": "fetched"
-      },
-      {
-        "label": "Among Us on Google Play",
-        "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
-        "verified": "fetched"
       }
     ],
-    "notes": "Steam listed 4 to 15 players, crossplay across Android, iOS, PC and console, and a sale price of $2.99 in Oct 2026. The mobile versions are free with ads."
+    "notes": "Steam listed 4 to 15 players, crossplay across iOS, PC and console, and a sale price of $2.99 in Oct 2026. The iPhone version is free with ads."
   },
   {
-    "id": "poker-pokernow-club",
-    "name": "Poker (PokerNow.club)",
+    "id": "poker-pokernow-com",
+    "name": "Poker (PokerNow.com)",
     "category": "One device per person",
     "subcategory": "Browser games with a room code",
     "needs": "One device each",
@@ -6227,7 +5967,7 @@
     "tip": "Same drink caps as Drunk Poker.",
     "source": "seed",
     "setup": [
-      "One person opens pokernow.com (pokernow.club redirects there), clicks Start a New Game and sets small and big blinds and the starting stack (for example 10/20 blinds, 1000 chips).",
+      "One person opens pokernow.com, clicks Start a New Game and sets small and big blinds and the starting stack (for example 10/20 blinds, 1000 chips).",
       "Pick No Limit Texas Hold'em unless everyone knows Omaha.",
       "Send the room link to the group; everyone opens it on their phone, enters a name and requests a seat.",
       "The host approves each seat request and starts the game once all four are seated.",
@@ -6264,11 +6004,11 @@
         "verified": "fetched"
       }
     ],
-    "notes": "pokernow.club now permanently redirects to pokernow.com. The site says the basic game is free with play money only; a paid Plus tier exists."
+    "notes": "The old pokernow.club address now redirects to pokernow.com. The site says the basic game is free with play money only; a paid Plus tier exists."
   },
   {
-    "id": "cards-against-humanity-online-allbad-cards-pretendyoure-xyz",
-    "name": "Cards Against Humanity online (allbad.cards, pretendyoure.xyz)",
+    "id": "cards-against-humanity-online-pretendyoure-xyz",
+    "name": "Cards Against Humanity online (pretendyoure.xyz)",
     "category": "One device per person",
     "subcategory": "Browser games with a room code",
     "needs": "One device each",
@@ -6280,7 +6020,7 @@
     "tip": "Less pass-the-phone fumbling than the one-device version.",
     "source": "seed",
     "setup": [
-      "Open pretendyoure.xyz/zy/ on each phone (allbad.cards was down in Oct 2026).",
+      "Open pretendyoure.xyz/zy/ on each phone.",
       "Pick a nickname and click the main server to enter the lobby.",
       "One person clicks Create Game, sets a password, score limit (5 is plenty) and card packs, then shares the password and game name with the group.",
       "The other three find that game in the list, enter the password and join.",
@@ -6304,7 +6044,7 @@
       "Gambling: play 2 cards on a round; if neither wins, drink 2 instead of 1.",
       "Rando Cardrissian: the game can add a bot player; if the bot wins a round everyone drinks 1."
     ],
-    "watchOut": "allbad.cards did not resolve at all in Oct 2026, so Pretend You're Xyzzy is the live option and it looks dated and has public servers with strangers; use a password. With 4 players only 3 cards compete per round so the Czar sees everything fast.",
+    "watchOut": "Pretend You're Xyzzy looks dated and has public servers with strangers; create a room with a password. With 4 players only 3 cards compete per round so the Czar sees everything fast.",
     "duration": "About 15 to 20 min to 5 points",
     "playerSweetSpot": "4 is fine. Three cards per round is a bit thin, so raise hand size or use a 5 point limit to keep games short.",
     "links": [
@@ -6312,14 +6052,9 @@
         "label": "Pretend You're Xyzzy",
         "url": "https://pretendyoure.xyz/zy/",
         "verified": "fetched"
-      },
-      {
-        "label": "All Bad Cards (offline in Oct 2026)",
-        "url": "https://allbad.cards",
-        "verified": "unverified"
       }
     ],
-    "notes": "allbad.cards failed DNS resolution on Oct 15 2026 and appears to be dead. pretendyoure.xyz loaded and showed active servers."
+    "notes": "pretendyoure.xyz loaded in Oct 2026 and showed active servers. allbad.cards, which the seed used to name, no longer resolves."
   },
   {
     "id": "board-game-arena",

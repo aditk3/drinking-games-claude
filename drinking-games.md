@@ -422,13 +422,6 @@ One phone or laptop in the middle of the table. Everyone sits around it, passes 
 - **How to play:** Enter everyone's name. The app reads out rules, dares, and challenges addressed to specific players. Just follow along.
 - **Tip:** Free base mode is plenty; paid packs add spicier categories.
 
-#### Drink Roulette
-- **Needs:** One phone
-- **Vibe:** Medium
-- **Style:** Luck / Social
-- **How to play:** Pick from 22 modes including spin wheels, card challenges, and timed games.
-- **Tip:** Free; good variety when the group gets bored of one format.
-
 #### Do or Drink
 - **Needs:** One phone or browser
 - **Vibe:** Heavy
@@ -443,11 +436,11 @@ One phone or laptop in the middle of the table. Everyone sits around it, passes 
 - **How to play:** Board-style drinking game for up to 14 players with custom challenges.
 - **Tip:** Has a BAC tracker if you want to be slightly responsible.
 
-#### Game of Shots MAX
+#### Game of Shots
 - **Needs:** One phone
 - **Vibe:** Medium
 - **Style:** Mixed
-- **How to play:** Bundle of classic drinking games plus a dice board mode.
+- **How to play:** Bundle of classic drinking games (Kings Cup, Never Have I Ever, Higher or Lower, and more) in one free app.
 - **Tip:** Free; handy as an all-in-one.
 
 #### TOZ
@@ -470,13 +463,6 @@ One phone or laptop in the middle of the table. Everyone sits around it, passes 
 - **Style:** Social
 - **How to play:** Five modes, 800+ cards.
 - **Tip:** Free base, subscription for premium.
-
-#### Drinkopoly
-- **Needs:** One phone
-- **Vibe:** Medium
-- **Style:** Mixed
-- **How to play:** Card challenges with mini-games mixed in.
-- **Tip:** Free with in-app purchases.
 
 #### Gentle Jack: Omens
 - **Needs:** One phone or laptop browser
@@ -527,7 +513,7 @@ One phone or laptop in the middle of the table. Everyone sits around it, passes 
 - **Vibe:** Medium
 - **Style:** Social
 - **How to play:** Pass the device; each player picks a card, the Czar picks a winner, losers drink.
-- **Tip:** Sites like allbad.cards run it free.
+- **Tip:** Pretend You're Xyzzy (pretendyoure.xyz) runs it free.
 
 #### Bomb Party (JKLM.fun)
 - **Needs:** One phone or laptop
@@ -679,20 +665,6 @@ Everyone joins a room or server on their own phone or laptop.
 - **How to play:** Host a quiz; everyone joins with a code. Wrong answer or lowest score each round drinks.
 - **Tip:** Make a custom quiz about your friend group beforehand.
 
-#### Trinks
-- **Needs:** One phone each
-- **Vibe:** Medium
-- **Style:** Social
-- **How to play:** Multi-device drinking game app; everyone joins from their own phone and prompts go out simultaneously.
-- **Tip:** Mentioned in app roundups as the multi-device option.
-
-#### Multiplayer Games for Drinking (App Store)
-- **Needs:** One phone each
-- **Vibe:** Medium
-- **Style:** Mixed
-- **How to play:** Multi-phone drinking mini-games.
-- **Tip:** iOS.
-
 ### 3b. Browser games with a room code
 
 #### Skribbl.io
@@ -723,7 +695,7 @@ Everyone joins a room or server on their own phone or laptop.
 - **How to play:** 2v2. Spymasters give one-word clues. Losing team drinks; hit the assassin and finish your drink.
 - **Tip:** Perfect for exactly 4.
 
-#### Spyfall (spyfall.app)
+#### Spyfall (spyfall.live)
 - **Needs:** One device each
 - **Vibe:** Chill
 - **Style:** Bluffing
@@ -744,14 +716,14 @@ Everyone joins a room or server on their own phone or laptop.
 - **How to play:** Eject the wrong person, everyone who voted drinks. Impostor caught, impostor drinks.
 - **Tip:** Tight with 4; one impostor only.
 
-#### Poker (PokerNow.club)
+#### Poker (PokerNow.com)
 - **Needs:** One device each
 - **Vibe:** Medium
 - **Style:** Skill
 - **How to play:** Free private table. Sips for chips.
 - **Tip:** Same drink caps as Drunk Poker.
 
-#### Cards Against Humanity online (allbad.cards, pretendyoure.xyz)
+#### Cards Against Humanity online (pretendyoure.xyz)
 - **Needs:** One device each
 - **Vibe:** Medium
 - **Style:** Social
@@ -837,7 +809,6 @@ Everyone joins a room or server on their own phone or laptop.
 - [Mario Kart Drinking Game rules](https://bargames101.com/mario-kart-drinking-game/)
 - [Drinking games for iPhone](https://bargames101.com/drinking-games-for-iphone/)
 - [5 best drinking card games (VinePair)](https://vinepair.com/articles/5-best-drinking-card-games/)
-- [Multiplayer Games for Drinking (App Store)](https://apps.apple.com/us/app/-/id1480583929)
 - [Best Nintendo drinking games (Twinfinite)](https://twinfinite.net/features/best-nintendo-drinking-games/)
 - [TV Tropes DrinkingGame index](https://tvtropes.org/pmwiki/pmwiki.php/DrinkingGame/MarioKart)
 - [Beerwulf drinking card games](https://www.beerwulf.com/en-gb/articles-about-craft-beer/drinking-card-games)
